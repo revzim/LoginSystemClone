@@ -1,0 +1,2 @@
+LoginSystem.MainActivity;loginsystem.MainActivity
+LoginSystem.dialog_SignUp;loginsystem.dialog_SignUp
